@@ -46,7 +46,7 @@ def update_index(dt):
     if dt in dts:
         logging.warning(f"{dt} is already append to {fp_index}")
     else:
-        last_id = dt_ls[-1].split(".")[0]
+        last_id = dt_ls[-2].split(".")[0]
         dt_ls.append(f"{int(last_id)+1}. [{dt}]({dt}/{dt}.md)")
         dt_ls.append("")
         data_new = "\n".join(dt_ls)
