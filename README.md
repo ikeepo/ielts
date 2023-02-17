@@ -27,11 +27,15 @@
 
 ##### 读
 
-[刘洪波网课](https://www.bilibili.com/video/BV16Y411e7YH/?spm_id_from=333.337.search-card.all.click&vd_source=b9d717895f96b446904b871f41330bb5)
+[刘洪波网课](https://www.bilibili.com/video/BV1QM411w7r1?p=1&vd_source=b9d717895f96b446904b871f41330bb5)
 
 ##### 写
 
-[刘洪波网课](https://www.bilibili.com/video/BV16Y411e7YH/?spm_id_from=333.337.search-card.all.click&vd_source=b9d717895f96b446904b871f41330bb5)
+[刘洪波网课](https://www.bilibili.com/video/BV15e411w7Nf/?spm_id_from=333.337.search-card.all.click&vd_source=b9d717895f96b446904b871f41330bb5)， 网盘
+
+[杜仕明网课](https://www.bilibili.com/video/BV1X24y1p7oj/?spm_id_from=333.337.search-card.all.click&vd_source=b9d717895f96b446904b871f41330bb5)
+
+[顾家北网课](https://www.bilibili.com/video/BV1eM411w7Gk/?spm_id_from=333.337.search-card.all.click&vd_source=b9d717895f96b446904b871f41330bb5)
 
 ### Pronuncication
 
