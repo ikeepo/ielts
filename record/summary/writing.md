@@ -4,9 +4,29 @@ Task1, 20mins, >150 words, letter;
 
 Task2, 40mins, >250 words, Argumentation or Report;
 
+## AHA
+
+每个话题的词汇是固定的；
+
+逻辑模板严谨，严谨的意思就是比较固定；
+
+proof reading：最后两分钟一定要重读检验；
+
+有思想不会表达，是语法问题，不是词汇问题；中英词汇是一一对应的，语法不是，甚至是相反的；
+
 ## 评分标准
 
 ##### TR: Task Response
+
+##### CC: Coherence and Cohesion
+
+句子间，而非段落间
+
+代词，连接
+
+##### LR: Lexical Resource
+
+##### GRA: Grammatical Range and Accuracy
 
 ## 大论文分类
 
@@ -55,6 +75,10 @@ Why原因写两个；
 
    <u>*抽象具体同义替换*</u>；如果不认识，不知道同义词，具体概念抽象化，抽象概念具体化；
 
+   加形容词(定语)来具体化，knowledge，practical knowledge, academic knowledge, job related skill
+
+   用this等代词
+
 2. I, My, We, You
 
 3. 缩写
@@ -66,3 +90,26 @@ Why原因写两个；
 6. 拼写
 
 7. 格式
+
+
+
+## 经典表达
+
+***regardless of*** whether the course is useful to an employer.
+
+## 五段式
+
+### 首段写作
+
+> 第一句：背景引入
+>
+> 第二句：要辩论的话题
+>
+> 第三句：自己的写作观点
+
+
+
+> 高手第一段写得少，1.2可以省掉；如果论据很多，不让1，2占用过多篇幅；
+>
+> 7分以上可以把1,2融合成一句；
+
