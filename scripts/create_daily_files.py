@@ -23,7 +23,7 @@ def create_md_date(fp):
     mdFile.new_line("\n")
     mdFile.new_header(level=2, title='知识点', add_table_of_contents="n")
     mdFile.new_line("\n")
-    mdFile.new_header(level=2, title='总结', add_table_of_contents="n")
+    mdFile.new_header(level=2, title='单词', add_table_of_contents="n")
     mdFile.new_line("\n")
     mdFile.new_header(level=2, title='下次学习入口', add_table_of_contents="n")
     mdFile.new_line("\n")

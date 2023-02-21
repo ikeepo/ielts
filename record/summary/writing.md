@@ -14,9 +14,13 @@ proof reading：最后两分钟一定要重读检验；
 
 有思想不会表达，是语法问题，不是词汇问题；中英词汇是一一对应的，语法不是，甚至是相反的；
 
+输出类（写说），***动词词组***是长句、连贯的构成成分；动词词组是承重墙，单词是砖，语法是砌砖方法；
+
 ## 评分标准
 
 ##### TR: Task Response
+
+每个段落的第一句是中心句；
 
 ##### CC: Coherence and Cohesion
 
@@ -27,6 +31,10 @@ proof reading：最后两分钟一定要重读检验；
 ##### LR: Lexical Resource
 
 ##### GRA: Grammatical Range and Accuracy
+
+考官非常重视的三大语法错误：
+
+1. 两个句子之间用逗号
 
 ## 大论文分类
 
@@ -97,6 +105,16 @@ Why原因写两个；
 
 ***regardless of*** whether the course is useful to an employer.
 
+## 十五句
+
+> 考官范文12句250字，较难；15句，每段3句，每句16单词，构成250字；
+>
+> 先写提纲：观点，论据
+>
+> 让考官会心一笑，读得懂，觉得好；
+>
+> 结构练好，每句就几种从句，考场上只要想思想，能用常用单词表达出，论据想好、例子想好
+
 ## 五段式
 
 ### 首段写作
@@ -106,10 +124,85 @@ Why原因写两个；
 > 第二句：要辩论的话题
 >
 > 第三句：自己的写作观点
+>
+> my view is that
+>
+> while from my perspective, I think doing sth
+>
+> Band 7 要求：position through out
 
 
 
 > 高手第一段写得少，1.2可以省掉；如果论据很多，不让1，2占用过多篇幅；
 >
 > 7分以上可以把1,2融合成一句；
+>
+> 不支持的观点写成some people argue that, 支持的观点协程自己的<u>*while from my perspective*</u>, I think doing sth; while 引导一个状语**从句**，前面是主句，因此while前面要用逗号，while小写，整体是一句话。
 
+### 第二段
+
+> 论证逻辑：中心、解释、因此；
+>
+> 第四句：第一论据
+>
+> Doing sth. is ...
+>
+> It is clear that  （写[事实]论据，而非观点）sth is important这是观点，是不对的
+>
+> 第五句：对中心的展开，最难的一句
+>
+> This is because ...
+>
+> This means that ...正向主体获利
+>
+> If ...反证法，反向引导到一个不好的处境
+>
+> More specifically, ...具体化
+>
+> 下面选修
+>
+> When ...
+>
+> Compared with A that ..., B can ...
+>
+> While A can ..., what B can do is ...
+>
+> 第六句：第三句的改写
+>
+> So, it is important/essential/necessary for sb. to do sth.
+
+### 第三段
+
+> 第七句：第二中心，第二论据，举例论证
+>
+> Moreover, A is B that ...
+>
+> 第八句：例证，举例，考官印象最深刻的地方是例子，思想是差不多的
+>
+> 有说服力的特点，认为考官是知道的：
+>
+> 1. 时尚流行
+> 2. 国际化
+> 3. 具体的
+>
+> 第九句：例子的解释，为什么第八句可以例证第七句
+
+### 第四段
+
+> 反方观点及其合理处
+>
+> 第十句：反方观点
+>
+> 第十一句：进一步论证合理性
+>
+> 第十二句：返回来，驳斥反方
+
+### 第五段
+
+> 强调句用在最后总结段，不要用在论证段
+>
+> 第十三句：全文中心
+>
+> 第十四句：反方观点，找到平衡
+>
+> 第十五句：思想升华
