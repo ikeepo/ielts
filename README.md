@@ -3,6 +3,12 @@
 
 ## [Daily Record](record/daily/index.md)
 
+## 英文资料
+
+[engVid](https://www.engvid.com/english-lessons/)
+
+[englishwithronnie](https://englishwithronnie.com/home)
+
 ## 备考资料
 
 ##### 听
@@ -62,3 +68,5 @@
 [写](record/summary/writing.md)
 
 [语法](record/summary/grammar.md)
+
+[Vocabulary](record/summary/vocabulary.md)
