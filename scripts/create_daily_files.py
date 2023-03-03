@@ -63,10 +63,10 @@ def create_daily_record_template(dt, n):
     fp_date = f"{dp}/{dt}.md"
     create_md_date(fp_date)
     logging.info(f"create {fp_date}")
-    for i in range(n):
-        fp_knowledge = f"{dp}/Understand_Something_{i}.md"
-        create_md(fp_knowledge, "Understand Something")
-        logging.info(f"create {fp_knowledge}")
+    # for i in range(n):
+    #     fp_knowledge = f"{dp}/Understand_Something_{i}.md"
+    #     create_md(fp_knowledge, "Understand Something")
+    #     logging.info(f"create {fp_knowledge}")
     update_index(dt)
 
 if "__main__" == __name__:

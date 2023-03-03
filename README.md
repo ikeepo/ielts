@@ -5,9 +5,13 @@
 
 ## 英文资料
 
-[engVid](https://www.engvid.com/english-lessons/)
-
-[englishwithronnie](https://englishwithronnie.com/home)
+> [engVid](https://www.engvid.com/english-lessons/)
+>
+> [englishwithronnie](https://englishwithronnie.com/home)
+>
+> [IELTS Liz](https://ieltsliz.com/ielts-speaking-free-lessons-essential-tips/)
+>
+> github repository [1](https://github.com/ucatal/awesome-ielts), [2](https://github.com/shah0150/awesome-IELTS)
 
 ## 备考资料
 
@@ -16,6 +20,8 @@
 > [王陆网课](https://www.bilibili.com/video/BV1xG4y1N7pn?p=1&vd_source=b9d717895f96b446904b871f41330bb5)
 >
 > 雅思王听力真题语料库
+>
+> 
 
 王陆的语料库，有些读音不标准，这个语料库的作用主要是为了适应听力语音中口音变化，因此适合在以了解标准读音的基础上进行异常读音训练；
 
