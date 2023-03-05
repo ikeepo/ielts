@@ -15,7 +15,7 @@
 | [IELTSfrom6to9](https://ielts69.com/)                        |                                                              |                                                              |                                                              |                                                              |                                   |
 | [IELTSing](https://ieltsing.com/)                            |                                                              |                                                              |                                                              |                                                              |                                   |
 | [IELTS Online Tests](https://ieltsonlinetests.com/)          |                                                              |                                                              |                                                              |                                                              |                                   |
-|                                                              |                                                              |                                                              |                                                              |                                                              |                                   |
+| **[Language Lords](https://www.youtube.com/@languagelords)** |                                                              |                                                              |                                                              |                                                              |                                   |
 
 ###### Notes：
 
@@ -30,5 +30,5 @@
 | [备考策略](record/summary/strategy.md) | [听](record/summary/listening.md) | [说](record/summary/speaking.md) | [读](record/summary/reading.md) | [写](record/summary/writing.md) | [语法](record/summary/grammar.md) |
 | -------------------------------------- | --------------------------------- | -------------------------------- | ------------------------------- | ------------------------------- | --------------------------------- |
 | v3                                     |                                   |                                  |                                 |                                 |                                   |
-| [**Memory**](record/summary/memory.md) |                                   |                                  |                                 |                                 |                                   |
+| [**Memory**](record/summary/memory.md) | **[FAQ](record/summary/FAQ.md)**  |                                  |                                 |                                 |                                   |
 
