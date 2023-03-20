@@ -29,7 +29,7 @@ def create_md_date(fp):
     mdFile.new_line("\n")
     mdFile.new_header(level=5, title='[返回Home](../../../README.md)', add_table_of_contents="n")
     mdFile.new_line("\n")
-    mdFile.new_header(level=5, title='[返回Home](../index.md)', add_table_of_contents="n")
+    mdFile.new_header(level=5, title='[返回DailyRecordIndex](../index.md)', add_table_of_contents="n")
     mdFile.new_line("\n")
     mdFile.create_md_file()
 
