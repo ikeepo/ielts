@@ -21,3 +21,8 @@ Oxford Learner's Thesaurus
 Collins Thesaurus 
 
 ## Coherence
+
+## 框架
+
+当谈到。。，立马出现在我脑海中的是。。。
+
