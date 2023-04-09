@@ -20,3 +20,22 @@
 > [Vowel](https://www.youtube.com/watch?v=21b69Q-9S6c&ab_channel=EnglishwithRonnie%C2%B7EnglishLessons4UwithengVid) Pronunciation - u (uh/oo)
 
 额（短）          屋（长）
+
+
+
+## 同义替换
+
+| connection   | communication |
+| ------------ | ------------- |
+| coupled with | and           |
+|              |               |
+|              |               |
+
+## 对比
+
+| some people | from my perspective |
+| ----------- | ------------------- |
+|             |                     |
+|             |                     |
+|             |                     |
+
