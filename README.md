@@ -18,14 +18,6 @@
 | [IELTS Online Tests](https://ieltsonlinetests.com/)          |                                      |                                                              |            |            |                                   |
 | **[Language Lords](https://www.youtube.com/@languagelords)** |                                      |                                                              |            |            |                                   |
 
-###### Notes：
-
-王陆的语料库，有些读音不标准，这个语料库的作用主要是为了适应听力语音中口音变化，因此适合在以了解标准读音的基础上进行异常读音训练；
-
-不适合用于未知单词的学习，会学错。
-
-因此这个材料要放在后期使用，不能用于学单词
-
 ## Summary
 
 | [备考策略](record/summary/strategy.md) | [听](record/summary/listening.md) | [说](record/summary/speaking.md)         | [读](record/summary/reading.md) | [写](record/summary/writing.md) | [语法](record/summary/grammar.md) |
