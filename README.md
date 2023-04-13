@@ -6,17 +6,12 @@
 
 ## 备考资料
 
-| 综合                                                         | 听                                   | 说                                                           | 读         | 写         | Pronunciation                     |
-| ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ | ---------- | ---------- | --------------------------------- |
-| [engVid](https://www.engvid.com/english-lessons/)            | 王陆网课                             | 杨帅网课                                                     | 刘洪波网课 | 刘洪波网课 | [YouGlish](https://youglish.com/) |
-| [englishwithronnie](https://englishwithronnie.com/home)      | 雅思王听力真题语料库                 | 杨帅900句                                                    |            | 杜仕明网课 |                                   |
-| [IELTS Liz](https://ieltsliz.com/ielts-speaking-free-lessons-essential-tips/) | [Mini-ielts](http://mini-ielts.com/) | [IELTS Speaking](https://www.ieltsspeaking.co.uk/ielts-holiday-vocabulary/) |            | 顾家北网课 |                                   |
-| github repository [1](https://github.com/ucatal/awesome-ielts), [2](https://github.com/shah0150/awesome-IELTS) |                                      | [Verbling](https://www.verbling.com/): 35元/h                |            |            |                                   |
-| [IELTS-up](https://ielts-up.com/index.html)                  |                                      | [Cambly](https://www.cambly.com/): 70元/h                    |            |            |                                   |
-| [IELTSfrom6to9](https://ielts69.com/)                        |                                      |                                                              |            |            |                                   |
-| [IELTSing](https://ieltsing.com/)                            |                                      |                                                              |            |            |                                   |
-| [IELTS Online Tests](https://ieltsonlinetests.com/)          |                                      |                                                              |            |            |                                   |
-| **[Language Lords](https://www.youtube.com/@languagelords)** |                                      |                                                              |            |            |                                   |
+> 研究了一圈，蓦然回首，贵学几本书是最好的雅思考试资料，no one knoew ielts better than 刘洪波
+
+| 综合                                                         | 听        | 说                              | 读                   | 写              | Pronunciation                     |
+| ------------------------------------------------------------ | --------- | ------------------------------- | -------------------- | --------------- | --------------------------------- |
+| **[Language Lords](https://www.youtube.com/@languagelords)** | 179考点词 | 杨帅网课/900句/口语班           | 刘洪波网课/538考点词 | 刘洪波网课/总纲 | [YouGlish](https://youglish.com/) |
+| Lydia                                                        |           | [speak](https://www.speak.com/) |                      |                 |                                   |
 
 ## Summary
 
