@@ -241,3 +241,19 @@ Why原因写两个；
 >
 > 第十五句：思想升华
 
+## 通用逻辑
+
+##### 涉及原因
+
+science technology urban
+
+##### 责任
+
+government
+
+family
+
+person
+
+environment
+
