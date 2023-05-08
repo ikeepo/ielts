@@ -20,3 +20,9 @@
 | v3                                     |                                   |                                          |                                 |                                 |                                   |
 | [**Memory**](record/summary/memory.md) | **[FAQ](record/summary/FAQ.md)**  | **[单词](record/summary/vocabulary.md)** |                                 |                                 |                                   |
 
+## 考试记录
+
+| 次数 | 时间     | 成绩    |
+| ---- | -------- | ------- |
+| 1    | 20230507 | waiting |
+
