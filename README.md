@@ -10,19 +10,20 @@
 
 | 综合                                                         | 听        | 说               | 读                   | 写              | Pronunciation                     |
 | ------------------------------------------------------------ | --------- | ---------------- | -------------------- | --------------- | --------------------------------- |
-| **[Language Lords](https://www.youtube.com/@languagelords)** | 179考点词 | 杨帅网课/900句   | 刘洪波网课/538考点词 | 刘洪波网课/总纲 | [YouGlish](https://youglish.com/) |
-| Lydia                                                        |           | rachel's english |                      |                 |                                   |
+| **[Language Lords](https://www.youtube.com/@languagelords)** | 179考点词 | rachel's english | 刘洪波网课/538考点词 | 刘洪波网课/总纲 | [YouGlish](https://youglish.com/) |
+| Lydia                                                        |           | 杨帅网课/900句   |                      |                 |                                   |
+|                                                              |           | Trancy           |                      |                 |                                   |
 
 ## Summary
 
 | [备考策略](record/summary/strategy.md) | [听](record/summary/listening.md) | [说](record/summary/speaking.md)         | [读](record/summary/reading.md) | [写](record/summary/writing.md) | [语法](record/summary/grammar.md) |
 | -------------------------------------- | --------------------------------- | ---------------------------------------- | ------------------------------- | ------------------------------- | --------------------------------- |
-| v3                                     |                                   |                                          |                                 |                                 |                                   |
+| v4                                     |                                   |                                          |                                 |                                 |                                   |
 | [**Memory**](record/summary/memory.md) | **[FAQ](record/summary/FAQ.md)**  | **[单词](record/summary/vocabulary.md)** |                                 |                                 |                                   |
 
 ## 考试记录
 
 | 次数 | 时间     | 成绩    |
 | ---- | -------- | ------- |
-| 1    | 20230507 | waiting |
+| 1    | 20230507 | 6,6,6,6 |
 
