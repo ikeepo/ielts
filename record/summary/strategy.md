@@ -55,5 +55,6 @@
 
 总结过去三个月的学习，效果最好、提升最多的是Rachel's English, 后面继续以此为突破口。
 
-素材选用：Rachel's Enlish， 刘洪波写作真经；
+素材选用：Rachel's English， 刘洪波写作真经；
 
+通过Rachel's English提升发音，继而提升口语、听力，通过背诵写作真经范围提升写作水平。
