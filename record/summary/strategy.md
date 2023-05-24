@@ -57,7 +57,7 @@
 
 ## 当前策略
 
-素材选用：Rachel's English， 刘洪波写作真经；
+素材选用：Rachel's English， 刘洪波写作真经+剑雅16 Audioscript；
 
 通过Rachel's English提升发音，继而提升口语、听力，通过背诵写作真经范围提升写作水平。
 
