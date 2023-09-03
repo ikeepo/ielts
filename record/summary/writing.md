@@ -20,7 +20,7 @@ Task2, 40mins, >250 words, Argumentation or Report;
 
 ##### report ：说明文
 
-reason -> technology/城市化-> 快节奏的生活
+reason -> 政策/经济/文化心理
 
 影响-> 个人/社会/环境
 

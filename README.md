@@ -8,11 +8,10 @@
 
 > 研究了一圈，蓦然回首，贵学几本书是最好的雅思考试资料，No one know ielts better than 刘洪波
 
-| 综合                                                         | 听        | 说               | 读                   | 写              | Pronunciation                     |
-| ------------------------------------------------------------ | --------- | ---------------- | -------------------- | --------------- | --------------------------------- |
-| **[Language Lords](https://www.youtube.com/@languagelords)** | 179考点词 | Rachel's english | 刘洪波网课/538考点词 | 刘洪波网课/总纲 | [YouGlish](https://youglish.com/) |
-| Lydia                                                        |           | 杨帅网课/900句   |                      |                 |                                   |
-|                                                              |           | Trancy           |                      |                 |                                   |
+| 综合                                                         | 听        | 说       | 读                   | 写         | Pronunciation                     |
+| ------------------------------------------------------------ | --------- | -------- | -------------------- | ---------- | --------------------------------- |
+| **[Language Lords](https://www.youtube.com/@languagelords)** | 179考点词 | Trancy   | 刘洪波网课/538考点词 | 刘洪波总纲 | [YouGlish](https://youglish.com/) |
+| Lydia                                                        | 耕伟学长  | 耕伟学长 | 耕伟学长             | 耕伟学长   | Rachel's English                  |
 
 ## 笔记
 
@@ -29,4 +28,4 @@
 
 ## 备考策略及总结
 
-[version5](record/summary/strategy.md)
+[version5.5](record/summary/strategy.md)
