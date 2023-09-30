@@ -12,7 +12,16 @@
 | ------------------------------------------------------------ | --------- | -------- | -------------------- | ---------- | --------------------------------- |
 | **[Language Lords](https://www.youtube.com/@languagelords)** | 179考点词 | Trancy   | 刘洪波网课/538考点词 | 刘洪波总纲 | [YouGlish](https://youglish.com/) |
 | Lydia                                                        | 耕伟学长  | 耕伟学长 | 耕伟学长             | 耕伟学长   | Rachel's English                  |
-
+## 作文批改
+先用AI，然后找人工
+- [IELTSCDT](http://ieltscdt.com/ielts-writing-essay-evaluation.php)	Free
+- [IELTS answers.com](https://www.ieltsanswers.com/writing-correction-ielts.html)   $9/essay
+- [writing9](https://writing9.com/)	$11.99/monthly, AI
+- [TED-IELTS](https://ted-ielts.com/writing-correction-service/)   $10/essay
+- [IELTS Liz](https://ieltsliz.com/ielts-writing-task-2/)
+- [IELTS-BLOG](https://www.ielts-blog.com/check-your-ielts-writing/)	%5/essay
+- [IELTS BUDDY](https://www.ieltsbuddy.com/ielts-writing-correction-service.html)   $10/essay
+- Taobao
 ## 笔记
 
 | [听](record/summary/listening.md) | [说](record/summary/speaking.md)       | [读](record/summary/reading.md)  | [写](record/summary/writing.md)          |
