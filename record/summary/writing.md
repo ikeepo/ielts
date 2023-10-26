@@ -3,7 +3,16 @@
 Task1, 20mins, >150 words, letter;
 
 Task2, 40mins, >250 words, Argumentation or Report;
-
+## 作文批改
+先用AI，然后找人工
+- [writing9](https://writing9.com/)     $11.99/monthly, AI
+- [IELTSCDT](http://ieltscdt.com/ielts-writing-essay-evaluation.php)    Free
+- [IELTS answers.com](https://www.ieltsanswers.com/writing-correction-ielts.html)   $9/essay
+- [TED-IELTS](https://ted-ielts.com/writing-correction-service/)   $10/essay
+- [IELTS Liz](https://ieltsliz.com/ielts-writing-task-2/)
+- [IELTS-BLOG](https://www.ielts-blog.com/check-your-ielts-writing/)    $5/essay
+- [IELTS BUDDY](https://www.ieltsbuddy.com/ielts-writing-correction-service.html)   $10/essay
+- Taobao
 ## 刘洪波写作
 
 框架可以看书，课程在详细解析文章，就是语法分析，当做语法高阶课，目的是通过正确写复杂句而得分。
