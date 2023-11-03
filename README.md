@@ -30,4 +30,4 @@
 
 ## 备考策略及总结
 
-[version4](record/summary/strategy.md)
+[version4.1](record/summary/strategy.md)
