@@ -8,10 +8,9 @@
 
 > 研究了一圈，蓦然回首，贵学几本书是最好的雅思考试资料，No one know ielts better than 刘洪波
 
-| 综合                                                         | 听        | 说       | 读                   | 写         | Pronunciation                     |
-| ------------------------------------------------------------ | --------- | -------- | -------------------- | ---------- | --------------------------------- |
-| **[Language Lords](https://www.youtube.com/@languagelords)** | 179考点词 | Trancy   | 刘洪波网课/538考点词 | 刘洪波总纲 | [YouGlish](https://youglish.com/) |
-| Lydia                                                        | 耕伟学长  | 耕伟学长 | 耕伟学长             | 耕伟学长   | Rachel's English                  |
+| 听         | 说        | 读 & 写   | Pronunciation                     |
+| ---------- | --------- | --------- | --------------------------------- |
+| 剑雅真题16 | 杨帅900句 | 538考点词 | [YouGlish](https://youglish.com/) |
 ## [作文批改](record/summary/writing.md)
 - [writing9](https://writing9.com/)	$11.99/monthly, AI
 ## 笔记
