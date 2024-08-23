@@ -10,7 +10,7 @@
 
 | 听         | 说        | 读 & 写   | Pronunciation                     |
 | ---------- | --------- | --------- | --------------------------------- |
-| 剑雅真题16 | 杨帅900句 | 538考点词 | [YouGlish](https://youglish.com/) |
+| 剑雅真题16 | 杨帅900句[(按章节独立音频)](materials/杨帅900句/) | 538考点词 | [YouGlish](https://youglish.com/) |
 ## [作文批改](record/summary/writing.md)
 - [writing9](https://writing9.com/)	$11.99/monthly, AI
 ## 笔记
