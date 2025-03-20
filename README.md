@@ -1,3 +1,4 @@
+> English is a skill which can be acquired by training, rather known by learning
 # IELTS
 
 雅思备考过程及相关资料
